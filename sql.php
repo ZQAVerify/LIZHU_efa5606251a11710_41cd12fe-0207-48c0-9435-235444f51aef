@@ -1,0 +1,2 @@
+values('18616','18642','wait4pumpkin@gmail.com','lthsmtp','cb4527b1e415d1bd0a4a03da668d95ac','111111','d27d6f42fa¡­
+¡­e into `ecs_users` values('18708','18734','zhouwei2@essence.com.cn','jimmyzhou','ffccac4f7874fd977d333be0582cb14c','11¡­
